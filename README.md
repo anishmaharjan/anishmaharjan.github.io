@@ -1,3 +1,3 @@
 anishmaharjan.github.io
 =======================
-<a href="anishmaharjan.github.io">Link</a>
+click on this [link](http://anishmaharjan.github.io).
