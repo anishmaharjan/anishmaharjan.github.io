@@ -58,11 +58,13 @@ overflow: hidden;
 box-shadow: 0 0 6px #ccc;
 }
 
+
 #title {
-line-height: 42px;
-border-bottom: 1px solid #000;
-padding-bottom: 20px;
-margin: 0px 0 20px 0;
+  line-height: 42px;
+  border-bottom: 1px solid #65A2A4;
+  padding-bottom: 20px;
+  margin: 0px 0 20px 0;
+  color: cadetblue;
 }
 
 #credit {
